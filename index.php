@@ -82,8 +82,8 @@
                     break;
                 
                 case 'med':
-                    w = 1.8;
-                    h = 1.8;
+                    w = 1.7;
+                    h = 1.7;
                     break;
                 
                 case 'large':
